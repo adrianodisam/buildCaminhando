@@ -1,6 +1,6 @@
 import React from 'react'
 import CardPix from './CardPix';
-import './Doe.module.css';
+import './Doe.css';
 
 const Doe = () => {
   return (
