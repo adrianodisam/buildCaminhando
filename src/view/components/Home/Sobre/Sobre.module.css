@@ -1,0 +1,205 @@
+.sobre {
+  margin-bottom: 8rem;
+}
+.nosSobre {
+  width: 90px;
+  top: 861px;
+  font-family: 'Baloo 2';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  letter-spacing: -0.02em;
+  color: #7c7c7c;
+  white-space: nowrap;
+}
+
+.instSobre {
+  width: 500px;
+  font-family: 'Baloo 2';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 52px;
+  line-height: 54px;
+  letter-spacing: -0.02em;
+  color: #303030;
+  margin: 0;
+}
+.divSobreCard {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.divSobre {
+  margin: 2rem;
+}
+
+.resumeImage {
+  width: 310px;
+  border-radius: 300px 10px 300px 300px;
+}
+
+.CardAjude {
+  display: flex;
+  justify-content: center;
+  height: 452px;
+  width: 350px;
+  border-radius: 40px;
+  margin-top: 2rem;
+  background: #c7b1ea;
+  border: 1px solid #733dcb;
+  color: grey;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.15);
+  border-radius: 40px;
+}
+.CardAjudeMob {
+  display: flex;
+  justify-content: center;
+  height: 452px;
+  width: 300px;
+  border-radius: 40px;
+  margin-top: 2rem;
+  background: #c7b1ea;
+  border: 1px solid #733dcb;
+  color: grey;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.15);
+  border-radius: 40px;
+}
+.cardProjetos {
+  display: flex;
+  justify-content: center;
+  height: 452px;
+  width: 350px;
+  border-radius: 40px;
+  margin-top: 2rem;
+  color: grey;
+  background: #ffeab7;
+  border: 1px solid #ffbf1f;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.15);
+  border-radius: 40px;
+}
+.cardQuemSomos {
+  display: flex;
+  justify-content: center;
+  height: 452px;
+  width: 350px;
+  border-radius: 40px;
+  margin-top: 2rem;
+  border-radius: 40px;
+  background: #ffc9c7;
+  border: 1px solid #ff5d55;
+  color: grey;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.15);
+  border-radius: 40px;
+}
+.container {
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 2rem;
+  display: flex;
+  height: 100%;
+}
+.containerTexto {
+  width: 50%;
+}
+.containerTexto {
+  width: 50%;
+}
+.textoCabe {
+  height: 204px;
+  left: 100px;
+  top: 1865px;
+  font-family: 'Baloo 2';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 44px;
+  line-height: 68px;
+  letter-spacing: -0.02em;
+  color: #733dcb;
+}
+.resumeText {
+  width: 560px;
+  height: 246px;
+  left: 100px;
+  top: 2095px;
+  font-family: 'Baloo 2';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 36px;
+  letter-spacing: -0.02em;
+  color: #303030;
+}
+.imagem2 {
+  width: 340px;
+  height: 310px;
+  left: 734.1px;
+  top: 1771px;
+  background: #ffbf1f;
+  border-radius: 300px 10px 300px 300px;
+  transform: rotate(6.98deg);
+}
+.imagem3 {
+  width: 310px;
+  height: 310px;
+  left: 666px;
+  top: 1796.78px;
+  background: #ff5d55;
+  border-radius: 300px 10px 300px 300px;
+  transform: rotate(-3.83deg);
+}
+
+.containerImagem {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+}
+
+/* mobile */
+.containerMob {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  align-items: center;
+}
+.containerTextoMob {
+  margin-bottom: 2rem;
+}
+.containerTextoMob p {
+  margin: 1rem;
+}
+
+.resumeTextMob {
+  width: 100%;
+  font-family: 'Baloo 2';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 36px;
+  letter-spacing: -0.02em;
+  color: #303030;
+  padding: 3rem;
+}
+
+.textoCabeMob {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  font-family: 'Baloo 2';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 44px;
+  line-height: 68px;
+  letter-spacing: -0.02em;
+  color: #733dcb;
+}
+.divSobreCardMob {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* mobile */
